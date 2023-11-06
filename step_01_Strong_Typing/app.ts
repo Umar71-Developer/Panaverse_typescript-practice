@@ -10,3 +10,5 @@ let f = 10.9;
 f = 22;
 let g = false;
 g = true
+
+export{}
